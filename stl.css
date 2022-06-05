@@ -1,0 +1,191 @@
+body {
+	background: #f9f9f9;
+  padding: 0px;
+  margin: 0px;
+  text-align:center;
+  width: 100%;
+  font-family: sans-serif;
+}
+/*{}*/
+#top{
+	width: 100%;
+	margin: 20px 0 25px 0;
+}
+#top #Top-Img{
+	margin: 35px 0 15px 0;
+}
+#top #Top-Img img{
+	width: 90px;
+	}
+#top #Top-location{
+	height: 12px;
+	font-size: 11px;
+	line-height: 1.4;
+	color: dimgray;
+}
+#top #Top-location svg{
+	color: red;
+	width: 8px;
+	margin-right: 6px;
+	fill: dimgray;
+}
+#top #Top-Description{
+	font-size: 12px;
+	color: dimgray;
+	margin-bottom: 10px;
+} 
+#top #Top-Description span{
+	color: #191919;
+	font-size: 18px;
+	width: 100%;
+	display: inline-block;
+} 
+
+#top #Top-contact{
+	margin: 15px 0 15px 0;
+} 
+#top #Top-contact a{
+	display: inline-block;
+	border: solid #0057ff 1px;
+	border-radius: 18px;
+	background: #DEE7FF;
+	padding: 10px 55px;
+}
+#top #Top-contact .icon{
+	float: left;
+	margin-top: 0px;  
+}
+#top #Top-contact span{
+	color: #0057ff;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: border;
+	height: 15px;
+	margin-top: 1px;
+	} 
+#top #Top-contact svg{
+	width: 15px;
+	display: inline-block;
+	margin:1px 9px 0 0;
+	fill: #0057ff;
+}
+
+#middle ul{
+
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#middle ul li{
+	display: inline-block;
+	list-style: none;
+	background: grey;
+	padding: 0px;
+	margin: 15px;
+	width: 250px;
+	height: 200px;
+	text-align: none;
+}
+#middle ul li img{
+	width: 100%;
+	height: 200px;
+}
+#middle ul li .titleItem{
+	width: 100%;
+	height: 200px;
+	display: none;
+}
+
+#bottom{
+	margin-top: 25px;
+	color: grey;
+	font-size: 10px;
+}
+#bottom #Bottom-TC a{
+	text-decoration: none;
+	color: grey;
+
+}
+
+#bottom #Bottom-Redes {
+}
+#bottom #Bottom-Redes ul{
+	list-style: none;
+	margin: 5px 0 5px 0;
+	padding: 0px;
+}
+
+#bottom #Bottom-Redes ul li{
+	display: inline-block;
+	width: 15px;
+
+}
+
+#bottom #Bottom-Redes ul li img{
+	width: 100%;
+}
+#bottom span{
+	margin: 0 15px 0 20px;
+}
+
+
+
+/* politicas de privacidad */
+
+#cont{
+	font-size: 12px;
+	width: 600px;
+	display: inline-block;
+}
+#cont h5{
+	font-size: 22px;
+	border: solid black 2px;
+	padding: 15px 0;
+	margin: 0px 0 25px 0;
+}
+#botonera{
+	width: 100%;
+	padding: 25px 0 ;
+}
+#cont h3{
+	text-decoration: underline;
+	font-size: 18px;
+	}
+#cont h2{
+	font-size: 14px;}
+#cont p{
+	font-size: 12px;}
+#btnB{
+	display: block;
+	float: left;
+	margin-left:10px ;
+	width: 30px;
+	position: absolute;
+}
+#botonera{
+	margin: 10px;
+}
+#botonera a{
+	margin: 5px;
+}
+#botonera a img{
+	width: 30px;
+}
+
+#redes ul{
+	list-style: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#redes ul li{
+	list-style: none;
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+	display: inline-block;
+}
+#redes ul li img{
+	width: 100%;
+}
