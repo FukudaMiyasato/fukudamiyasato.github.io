@@ -1,15 +1,15 @@
 # fukudamiyasato.github.io
 ## Name
-### Página web personal
+#### Página web personal
 ## Description
-### Primera versión de mi página web
+#### Primera versión de mi página web
 ## Installation
-### No necesita instalación
+#### No necesita instalación
 ## Usage
-### Página web
+#### Página web
 ## Support
-### ...
+#### ...
 ## Roadmap
-### ...
+#### ...
 
 
