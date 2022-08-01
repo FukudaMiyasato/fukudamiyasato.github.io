@@ -51,9 +51,9 @@ Describe your project
 <a href="https://fukudamiyasato.github.io/">link</a>
 ## :sparkles: Links ##
 <p align="center">
-  <a href="https://fukudamiyasato.github.io/pacmen">Pacmen</a> &#xa0; | &#xa0; 
-  <a href="https://fukudamiyasato.github.io/eye">Eye</a> &#xa0; | &#xa0;
-  <a href="https://fukudamiyasato.github.io/realtimebus">Real Time Bus</a> &#xa0; | &#xa0;
+  <a href="https://fukudamiyasato.github.io/MITPacmen">Pacmen</a> &#xa0; | &#xa0; 
+  <a href="https://fukudamiyasato.github.io/MITEye">Eye</a> &#xa0; | &#xa0;
+  <a href="https://fukudamiyasato.github.io/MITRealTimeBus">Real Time Bus</a> &#xa0; | &#xa0;
 </p>
 
 ## :sparkles: Features ##
