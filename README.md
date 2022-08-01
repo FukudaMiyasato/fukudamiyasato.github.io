@@ -3,8 +3,10 @@
 #### Página web personal
 ## Description
 #### Primera versión de mi página web
-## Installation
-#### No necesita instalación
+## Ejercicios
+#### <a>Pacmen</a>
+#### <a>Eye</a>
+#### <a>Bus</a>
 ## Usage
 #### Página web
 ## Support
