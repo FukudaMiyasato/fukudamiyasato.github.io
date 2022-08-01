@@ -49,12 +49,15 @@
 
 Describe your project
 <a href="https://fukudamiyasato.github.io/">link</a>
+
 ## :sparkles: Links ##
+
 <ul>
   <li>Pacmen (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITPacmen" target="_blank">Repo</a>)</li>
   <li>Eye (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITEye" target="_blank">Repo</a>)</li>
   <li>Real Time Bus (<a href="https://fukudamiyasato.github.io/MITRealTimeBus" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITRealTimeBus" target="_blank">Repo</a>)</li>
 </ul>
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
