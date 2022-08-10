@@ -72,7 +72,8 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Bootstrap](https://www.typescriptlang.org/)
+- [Bootstrap]
+- [Parcel]
 
 ## :white_check_mark: Requirements ##
 
