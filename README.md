@@ -48,36 +48,23 @@
 
 Web personal para mostrar mis trabajos.
 
-<a href="https://fukudamiyasato.github.io/">link</a>
-
-## :sparkles: Links ##
-
-<ul>
-  <li>Pacmen (<a href="https://fukudamiyasato.github.io/MITPacmen" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITPacmen" target="_blank">Repo</a>)</li>
-  <li>Eye (<a href="https://fukudamiyasato.github.io/MITEye" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITEye" target="_blank">Repo</a>)</li>
-  <li>Real Time Bus (<a href="https://fukudamiyasato.github.io/MITRealTimeBus" target="_blank">Link</a> || <a href="https://github.com/FukudaMiyasato/MITRealTimeBus" target="_blank">Repo</a>)</li>
-</ul>
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\Listado de proyectos
-:heavy_check_mark: Feature 2;\Información personal
+:heavy_check_mark: Listado de proyectos\
+:heavy_check_mark: Información personal\
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+Las siguientes herramientas fueron usadas en el proyecto:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Bootstrap]
-- [Parcel]
+- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap icons](https://icons.getbootstrap.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de empezar :checkered_flag:, tú necesitas [Git](https://git-scm.com) y [Node](https://nodejs.org/en/) instalado.
 
 ## :checkered_flag: Starting ##
 
@@ -91,11 +78,8 @@ $ git clone https://github.com/fukudamiyasato/fukudamiyasato-github-io
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
+Hecho con mucho :heart: por <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Ir "pa" arriba</a>
