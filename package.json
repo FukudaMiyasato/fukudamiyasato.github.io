@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.0"
-  }
+  },
+  "name": "fukudamiyasato.github.io",
+  "description": "<div align=\"center\" id=\"top\">    <img src=\"./.github/app.gif\" alt=\"Fukudamiyasato Github Io\" />",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FukudaMiyasato/fukudamiyasato.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FukudaMiyasato/fukudamiyasato.github.io/issues"
+  },
+  "homepage": "https://github.com/FukudaMiyasato/fukudamiyasato.github.io#readme"
 }

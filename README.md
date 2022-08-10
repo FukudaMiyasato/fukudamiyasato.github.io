@@ -9,13 +9,12 @@
 <h1 align="center">FUKUDAMIYASATO</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">
+  <!--<img alt="Github top language" src="https://img.shields.io/github/languages/top/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">-->
+  <!--<img alt="Github language count" src="https://img.shields.io/github/languages/count/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">-->
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">
+  <!--<img alt="Repository size" src="https://img.shields.io/github/repo-size/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">-->
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">
+  <!--<img alt="License" src="https://img.shields.io/github/license/fukudamiyasato/fukudamiyasato-github-io?color=56BEB8">-->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/fukudamiyasato-github-io?color=56BEB8" /> -->
 
@@ -73,6 +72,7 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -82,16 +82,8 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/fukudamiyasato-github-io
+$ git clone https://github.com/fukudamiyasato/fukudamiyasato-github-io
 
-# Access
-$ cd fukudamiyasato-github-io
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
@@ -101,7 +93,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/fukudamiyasato" target="_blank">Fukuda Miyasato</a>
 
 &#xa0;
 
