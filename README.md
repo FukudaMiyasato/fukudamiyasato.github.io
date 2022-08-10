@@ -47,7 +47,8 @@
 
 ## :dart: About ##
 
-Describe your project
+Web personal para mostrar mis trabajos.
+
 <a href="https://fukudamiyasato.github.io/">link</a>
 
 ## :sparkles: Links ##
@@ -60,9 +61,8 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 1;\Listado de proyectos
+:heavy_check_mark: Feature 2;\Información personal
 
 ## :rocket: Technologies ##
 
