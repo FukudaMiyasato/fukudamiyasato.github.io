@@ -47,7 +47,7 @@
 ## :dart: About ##
 
 Web personal para mostrar mis trabajos.
-<a href="https://fukudamiyasato.github.io/">link</a>
+<acd href="https://fukudamiyasato.github.io/">link</acd>
 
 ## :sparkles: Features ##
 
@@ -61,7 +61,7 @@ Las siguientes herramientas fueron usadas en el proyecto:
 - [Node.js](https://nodejs.org/en/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap icons](https://icons.getbootstrap.com/)
-- [Tailwind](https://tailwindcss.com/)
+- [Ionic icons]
 
 ## :white_check_mark: Requirements ##
 
