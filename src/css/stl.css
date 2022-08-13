@@ -21,3 +21,42 @@ body{
 .fcentro{
     margin: 100px auto 150px auto;
 }
+
+.item{
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.item.dibujo img{
+    background-color: black;
+    border-radius: 10px;
+    width: 95%;
+}
+.item.dibujo .btn{
+    width: 99%;
+    height: 20px;
+    padding: 2px;
+    font-size: 10px;
+}
+.mitItem{
+    background-color: rgba(20, 20, 20, 0.5);
+    border-radius: 10px;
+    padding: 10px 3px;
+}
+.mitItem .desc{
+    margin-top: 10px;
+}
+
+.mitItem img{
+    border-radius: 10px;
+}
+
+.mitItem h1{
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.mitItem p{
+    margin-top: 5px;
+    font-size: 12px;}
