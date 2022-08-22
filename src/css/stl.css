@@ -35,14 +35,14 @@ body{
 }
 .item.dibujo .btn{
     width: 99%;
-    height: 20px;
-    padding: 2px;
+    padding: 5px 2px;
     font-size: 10px;
+    border: none;
 }
 .mitItem{
     background-color: rgba(20, 20, 20, 0.5);
     border-radius: 10px;
-    padding: 10px 3px;
+    padding: 10px 5px;
 }
 .mitItem .desc{
     margin-top: 10px;
@@ -60,3 +60,11 @@ body{
 .mitItem p{
     margin-top: 5px;
     font-size: 12px;}
+
+.mitItem .btn-primary{
+    background-color: #811F92;
+}
+
+.navbar{
+    background-color: #811F92;
+}
