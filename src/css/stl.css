@@ -22,6 +22,9 @@ body{
     margin: 100px auto 150px auto;
 }
 
+.fcentro.int{
+    margin-top: 50px;
+}
 .item{
     border-radius: 20px;
     text-align: center;
@@ -89,4 +92,10 @@ body{
 .navbar-toggler img{
     width: 100%;
     
+}
+h2{
+    text-align: center;
+    color: #811F92;
+    margin: 20px 0;
+
 }
