@@ -66,5 +66,27 @@ body{
 }
 
 .navbar{
-    background-color: #811F92;
+    background-color: black;
+    color: #BCBCBC;
+}
+
+.navbar-brand2{
+    color: #BCBCBC;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navbar-brand2:hover{
+    color: #811F92;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: azure;
+}
+.navbar-expand-lg .navbar-nav .nav-link.active{
+    color:rgba(100, 100, 100);
+}
+
+.navbar-toggler img{
+    width: 100%;
+    
 }
